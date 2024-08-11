@@ -4,6 +4,6 @@
     </p>
     <hr>
     <p>
-      Tools built to give you magically awesome standards for `git`, GitHub pull-requests, & more.
+      Tools built to give you magically awesome standards for <code>git</code>, GitHub pull-requests, & more.
     </p>
 </div> 
